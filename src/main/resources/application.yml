@@ -14,7 +14,7 @@ spring:
     config:
       server:
         git:
-          url : https://github.com/the2sang/config-repo
+          uri : https://github.com/the2sang/config-service
           default-label: main
           timeout: 5
           clone-on-start: true
